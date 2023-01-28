@@ -22,7 +22,7 @@ class App extends Component {
           </a>
         </header>
         <h1>Sample App</h1>
-        <p>これは、サンプルで作成したアプリです</p>
+        <p>修正済み</p>
       </div>
     );
   }
